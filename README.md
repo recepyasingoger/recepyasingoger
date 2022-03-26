@@ -12,7 +12,7 @@
 
 - 🥅 2021 Goals: **I will learn Java.**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games.**
 
 
 ## 🚀 Languages and Tools:
