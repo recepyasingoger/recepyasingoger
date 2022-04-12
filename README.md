@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript.**
 
-- 📫 How to reach me **recepgoger2017@gmail.com**
+- 📫 How to reach me **recepyasingoger@gmail.com**
 
 - 🥅 2021 Goals: **I will learn Java.**
 
