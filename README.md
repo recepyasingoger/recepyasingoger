@@ -6,11 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Javascript.**
+- 🌱 I’m currently learning **Dart.**
 
 - 📫 How to reach me **recepyasingoger@gmail.com**
-
-- 🥅 2021 Goals: **I will learn Java.**
 
 - ⚡ Fun fact **I play games.**
 
