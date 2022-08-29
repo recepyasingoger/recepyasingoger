@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **recepyasingoger@gmail.com**
 
-- ⚡ Fun fact **I play games.**
-
 
 ## 🚀 Languages and Tools:
 
